@@ -1,0 +1,7 @@
+{
+    "projectName": "MultivacSmartcontracts",
+    "namespace": "MultivacSmartcontracts.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}

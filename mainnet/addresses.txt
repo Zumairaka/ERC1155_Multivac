@@ -1,0 +1,13 @@
+﻿Addresses
+
+MTVMnft: 
+on mainnet: 0x622B75b2914C730fEa7913b3191009c270C8B40e
+
+
+Marketplace:
+on mainnet: 0x15536F7c3438b57871cDb4a7Dc1928B638c5f21c
+on ropsten: 0x81A986F54354a65d792e0e911EB6E382E06AA529
+
+usdt:
+on mainnet: 0xfd36c336eb67a092dc80a063ff0644e13142d454
+on ropsten: 0x6ee856ae55b6e1a249f04cd3b947141bc146273c
